@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Social Monitoring API",
+  "name": "Stream Social API",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -15,14 +15,9 @@
       "to": "#07C983"
     }
   },
-  "topbarLinks": [
-    {
-      "name": "Follow Us",
-      "url": "https://x.com/WuupX"
-    }
-  ],
+  "topbarLinks": [],
   "topbarCtaButton": {
-    "name": "Join our Discord",
+    "name": "Contact Us",
     "url": "https://wuupx.com"
   },
   "tabs": [
