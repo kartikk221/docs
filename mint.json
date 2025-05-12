@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Stream Social API",
+  "name": "WuupX Social API",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -10,6 +10,10 @@
     "primary": "#0D9373",
     "light": "#07C983",
     "dark": "#0D9373",
+    "background": {
+      "light": "#FFFFFF",
+      "dark": "#000000"
+    },
     "anchors": {
       "from": "#0D9373",
       "to": "#07C983"
@@ -79,6 +83,8 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/WuupX"
+    "x": "https://x.com/WuupX",
+    "website": "https://wuupx.com",
+    "discord": "https://wuupx.com"
   }
 }
